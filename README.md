@@ -1,5 +1,5 @@
 
-# 🧠 Crypto Time Series Forecasting App
+# 🧠 Time Series Analysis with Cryptocurrency
 
 An interactive dashboard that predicts future cryptocurrency prices using ARIMA and Prophet time series models. Built with Python, Streamlit, and yfinance.
 
@@ -19,12 +19,23 @@ An interactive dashboard that predicts future cryptocurrency prices using ARIMA 
 
 ## 📸 Screenshot
 
-*Insert a screenshot of your Streamlit dashboard here (optional)*
+*screenshot of my Streamlit dashboard  is here please check here: OUTput-PNG file
 
 ---
 ## 📁 Project Structure
+time-series-analysis-with-cryptocurrency/
+├── src/
+│   ├── main.py
+│   ├── gui.py
+│   ├── data_collector.py
+│   ├── preprocessing.py
+│   ├── forecasting.py
+│   └── __init__.py
+├── Output-PNG/               # Contains result screenshots
+├── requirements.txt
+├── .gitignore
+└── README.md
 
-''' time-series-analysis-with-cryptocurrency/ ├── src/ │ ├── main.py │ ├── gui.py │ ├── data_collector.py │ ├── preprocessing.py │ ├── forecasting.py │ └── init.py ├── venv/ (ignored) ├── .gitignore └── README.md '''
 
 
 ## 🛠️ Tech Stack
@@ -40,7 +51,19 @@ Streamlit
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://gayatrigolhargithub/your-username/Time-Series-Analysis-with-Cryptocurrency.git.git
+cd Time-Series-Analysis-with-Cryptocurrency
 pip install -r requirements.txt
 streamlit run src/main.py
+
+
+---
+
+## 👤 Author
+
+**Gayatri Golhar**  
+🔗 [GitHub Profile](https://github.com/gayatrigolhargithub)
+
+Made with 💻, 📊, and ☕
+
+
