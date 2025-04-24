@@ -21,6 +21,20 @@ An interactive dashboard that predicts future cryptocurrency prices using ARIMA 
 *Insert a screenshot of your Streamlit dashboard here (optional)*
 
 ---
+## 📁 Project Structure
+
+''' time-series-analysis-with-cryptocurrency/ ├── src/ │ ├── main.py │ ├── gui.py │ ├── data_collector.py │ ├── preprocessing.py │ ├── forecasting.py │ └── init.py ├── venv/ (ignored) ├── .gitignore └── README.md '''
+
+
+## 🛠️ Tech Stack
+Python
+
+Pandas, Statsmodels, Prophet
+
+yfinance
+
+Streamlit
+
 
 ## 🚀 Run Locally
 
